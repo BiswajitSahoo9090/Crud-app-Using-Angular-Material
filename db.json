@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "Biswajit",
+      "lastName": "Sahoo",
+      "email": "sahoobiswajit431@gmail.com",
+      "dob": "2002-02-15T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post-Graduate",
+      "company": "CLUBMAN",
+      "experience": 2,
+      "package": 4,
+      "id": 1
+    },
+    {
+      "firstName": "Alibha",
+      "lastName": "Sahoo",
+      "email": "sahooalibha@gmail.com",
+      "dob": "2003-05-08T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "INFOSYS",
+      "experience": 2,
+      "package": 6,
+      "id": 2
+    },
+    {
+      "firstName": "Purnimo",
+      "lastName": "Sahoo",
+      "email": "sahoopurnima@gmail.com",
+      "dob": "2024-09-02T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post-Graduate",
+      "company": "CHS",
+      "experience": 2,
+      "package": 3,
+      "id": 3
+    },
+    {
+      "firstName": "Ashish",
+      "lastName": "Parida",
+      "email": "ashish@gmail.com",
+      "dob": "2002-01-31T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post-Graduate",
+      "company": "BYJUS",
+      "experience": 2,
+      "package": 9,
+      "id": 4
+    },
+    {
+      "firstName": "Sandeep",
+      "lastName": "Mohanty",
+      "email": "mohantysandeep431@gmail.com",
+      "dob": "2024-09-30T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "CLUBMAN",
+      "experience": 4,
+      "package": 56,
+      "id": 5
+    }
+  ]
+}
